@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaiconMessias
-- 👀 I’m interested in news technologies
+- 👀 I’m interested in new technologies
 
 <!---
 MaiconMessias/MaiconMessias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
